@@ -1,18 +1,19 @@
 # Retro Hockey
 
 ## Overview
-Retro Hockey is a 2D top-down arcade hockey game built in Unity. Players skate, pass, shoot, and battle for puck control in fast-paced retro-style gameplay. The project includes custom physics, AI logic, shooting mechanics, collisions, sound effects, and polished camera work.
+Retro Hockey is a 2D top-down arcade hockey game built in Unity by 4 developers. Players skate, pass, shoot, and battle for puck control in fast-paced retro-style gameplay. The project includes custom physics, AI logic, shooting mechanics, collisions, and sound effects. There are 3 different modes: Freeplay, StanleyCup, and BCMode.
 
 ## Features
-- Smooth skating & player movement system  
+- Smooth skating and player movement system  
 - Passing and shooting (wrist shot + slap shot)  
 - AI players with decision-making (move, pass, shoot)  
-- Goalie mechanics and puck possession logic  
+- Puck possession logic  
 - StickLogic + Shot classes using inheritance & dynamic binding  
 - Cinemachine camera shake  
 - Goal horn, hit sounds, puck SFX, background music  
 - Clean UI menus  
-- Mac/Windows builds supported  
+- Mac/Android/Linux builds supported
+- Animation States  
 
 ## Technical Highlights
 - `Movement.cs` handles acceleration, drag, and velocity  
@@ -37,8 +38,8 @@ Handled through `SMScript` (Sound Manager):
 - Goal horn  
 - Background music  
 
-## Demo Video
-A full start-to-finish gameplay video is provided for final presentation.
+## Final Demo Video
+- Coming Soon
 
 ## Team
 - Dylan  
